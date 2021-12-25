@@ -15,6 +15,12 @@ clear
 pkg update && pkg upgrade -y
 clear
 echo 
+echo -e $PP"DO YOU KNOW MARMU"
+read -p "Want to run the script? (y/n)" he
+if [ $he = y ]
+then
+sleep 1
+echo
 echo -e """\e[1m\e[35m                                                                  
         ┈███▄┈▄███▓┈▄▄▄┈┈┈┈┈┈┈██▀███┈┈┈███▄┈▄███▓┈█┈┈┈┈██┈
         ▓██▒▀█▀┈██▒▒████▄┈┈┈┈▓██┈▒┈██▒▓██▒▀█▀┈██▒┈██┈┈▓██▒
@@ -44,13 +50,9 @@ pkg install git -y
 apt install unzip -y
 gem install lolcat
 toilet -F gay 3-In-1 | lolcat
+fi
 
-echo
-echo -e $PP"DO YOU KNOW MARMU"
-read -p "Want to run the script? (y/n)" bd
-if [ $bd = y ]
-then
-sleep 1
+
 echo
 echo -e """\e[1;36m
 __________________________________________________
@@ -85,16 +87,6 @@ _____000000001_____‌ ᗷᗩᗷᎩ ᗞᖇᗩᏀᝪᑎ _____1000001____
 _____100001_______‌________________________1001____
 _______11______________________________‌_‌____11_____
 """
-fi
-
-if [ $bd = n ]
-than
-sleep 1
-echo
-        echo -e $RD"SORRY !" You are Xo stupid,bro!"
-        cd $HOME
-        cd 3O1       
-fi
 
 echo 
 pkg update && pkg upgrade -y
@@ -114,3 +106,11 @@ cd $HOME
         echo -e $BL "Ok Now u run => python2 3O1.py..."
 sleep 2
 exit
+if [ $he = n ]
+than
+sleep 1
+echo
+        echo -e $RD"SORRY !" You are Xo stupid,bro!"
+        cd $HOME
+        cd 3O1       
+fi
