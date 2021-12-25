@@ -22,7 +22,9 @@
 
 🎅 cd 3O1
 
-🎅 python2 ဘာဘာညာညာ.py
+🎅 bash install.sh
+
+🎅 python2 3O1.py
 
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-green?style=for-the-badge&logo=facebook.svg)
 [![](https://img.shields.io/badge/Github-Baby_D-lightblue?logo=Github&logoColor=red&labelColor=black)](https://github.com/Baby-D) <br>
