@@ -30,7 +30,7 @@ apt install figlet -y
 pkg install git -y
 apt install unzip -y
 gem install lolcat
-toilet -F gay 3-In-1 | lolcat
+toilet -F gay 3 In 1 | lolcat
 sleep 3
 echo
 echo
@@ -39,6 +39,8 @@ cd 3O1
 unzip 3O1.zip
 cd $HOME
 sleep 1
+echo
+sleep 0.5
 echo -e "\e[36m Now Run 👉 python2 3O1.py"
 echo -e "\e[1m\e[32m Creation \e[31m By \e[33m MarMu "
 echo
