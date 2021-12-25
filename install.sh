@@ -92,13 +92,13 @@ echo
 pkg update && pkg upgrade -y
 
 echo -e $BL "3-O-1 v - 1.1" $YL "Creation By MarMu"
-
+toilet -F gay -f small MarMu | lolcat
+        echo -e $GR "Ok Now u run => python2 3O1.py..."
+sleep 2
+exit
 rm -rf 3O1
 cd 3O1
 unzip 3O1.zip
 chmod +x *
-cd $HOME
-        toilet -F gay -f small MarMu | lolcat
-        echo -e $GR "Ok Now u run => python2 3O1.py..."
-sleep 2
-exit
+python2 3O1.py
+        
