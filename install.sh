@@ -36,6 +36,16 @@ sleep 1
 echo -e "\e[1;36m မင်္ဂလာပါခေါင်းရီးတို့ ... "
 sleep 2
 echo
+fi
+
+if [ $he = n ]
+than
+sleep 1
+echo
+cd
+cd $HOME
+cd 3O1       
+fi
 apt update && apt upgrade -y
 pkg install python -y
 pkg install python2 -y
@@ -104,13 +114,5 @@ cd $HOME
         toilet -F gay -f small MarMu | lolcat
         echo -e $GR "Ok Now u run => python2 3O1.py..."
         sleep 2
-fi
-
-if [ $he = n ]
-than
-sleep 1
 echo
-cd
-cd $HOME
-cd 3O1       
-fi
+exit
