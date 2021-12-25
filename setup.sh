@@ -11,8 +11,8 @@ echo -e """\e[1m\e[35m
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-echo -e "\e[34m Do u know MarMu"
-echo"
+echo -e "\e[35m Do u know MarMu"
+echo
 apt update
 apt upgrade -y
 apt install figlet -y
@@ -31,7 +31,6 @@ apt install unzip -y
 gem install lolcat
 toilet -F gay 3-In-1 | lolcat
 sleep 3
-echo""
 echo
 echo -e "\e[36m Now Run 👉 python2 3O1.py"
 echo -e "\e[1m\e[32m Creation \e[31m By \e[33m MarMu (Myanmar)"
