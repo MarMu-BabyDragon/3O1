@@ -27,7 +27,8 @@
 🎅 python2 3O1.py
 
 **USERNAME => ( Come to Page Inbox )**
-**PASSWORD => ( Come To Page Inbox ) **
+
+**PASSWORD => ( Come To Page Inbox )**
 
 
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-green?style=for-the-badge&logo=facebook.svg)
