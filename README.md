@@ -26,6 +26,10 @@
 
 🎅 python2 3O1.py
 
+**USERNAME => ( Come to Page Inbox )**
+**PASSWORD => ( Come To Page Inbox ) **
+
+
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-green?style=for-the-badge&logo=facebook.svg)
 [![](https://img.shields.io/badge/Github-Baby_D-lightblue?logo=Github&logoColor=red&labelColor=black)](https://github.com/Baby-D) <br>
 <a href="https://m.facebook.com/marmu.007"><img title="Facebook" src="https://img.shields.io/badge/Chat-Page_Messenger-lightyellow?style=flat&logo=facebook"></a>
