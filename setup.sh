@@ -39,6 +39,8 @@ echo
 cd $HOME
 cd 3O1
 unzip 3O1.zip
+cd $HOME
+sleep 1
 echo -e "\e[36m Now Run 👉 python2 3O1.py"
 echo -e "\e[1m\e[32m Creation \e[31m By \e[33m MarMu "
 echo
