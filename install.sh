@@ -95,7 +95,7 @@ ______________1¶¶111¶¶¶1_____________________
 echo 
 pkg update && pkg upgrade -y
 toilet -F gay 3 In 1 | lolcat
-echo -e $BL "3-O-1 v - 1.1" $YL "Creation By MarMu"
+echo -e $BL "3-O-1 v - 1.0" $YL "Creation By MarMu"
 toilet -F gay -f small MarMu | lolcat
        echo -e $GR "Ok! Now you run" $YL"👉" $PP"python2 3O1.py "
 sleep 2
