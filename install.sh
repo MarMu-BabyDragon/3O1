@@ -14,12 +14,7 @@ PP='\e[1;35m'
 clear
 pkg update && pkg upgrade -y
 clear
-echo 
-echo -e $PP"DO YOU KNOW MARMU"
-read -p "Want to run the script? (y/n)" he
-if [ $he = y ]
-then
-sleep 1
+
 echo
 echo -e """\e[1m\e[35m                                                                  
         ┈███▄┈▄███▓┈▄▄▄┈┈┈┈┈┈┈██▀███┈┈┈███▄┈▄███▓┈█┈┈┈┈██┈
@@ -32,8 +27,14 @@ echo -e """\e[1m\e[35m
         ░┈┈┈┈┈┈░┈┈┈┈┈░┈┈┈▒┈┈┈┈┈░░┈┈┈░┈░┈┈┈┈┈┈░┈┈┈┈░░░┈░┈░┈
         ┈┈┈┈┈┈┈░┈┈┈┈┈┈┈┈┈░┈┈░┈┈┈░┈┈┈┈┈┈┈┈┈┈┈┈░┈┈┈┈┈┈░┈┈┈┈┈        
 """
-echo
-echo -e "\e[1;36m ခေါင်းG တို့ ok ရဲ့လား "
+echo 
+echo -e $PP"DO YOU KNOW MARMU"
+read -p "Want to run the script? (y/n)" he
+if [ $he = y ]
+then
+sleep 1
+echo -e "\e[1;36m မင်္ဂလာပါခေါင်းရီးတို့ ... "
+sleep 2
 echo
 apt update && apt upgrade -y
 pkg install python -y
@@ -101,7 +102,7 @@ unzip 3O1.zip
 chmod +x *
 cd $HOME
         toilet -F gay -f small MarMu | lolcat
-        echo -e $BL "Ok Now u run => python2 3O1.py..."
+        echo -e $GR "Ok Now u run => python2 3O1.py..."
         sleep 2
 fi
 
@@ -109,7 +110,7 @@ if [ $he = n ]
 than
 sleep 1
 echo
-        echo -e $RD"SORRY !" You are Xo stupid,bro!"
-        cd $HOME
-        cd 3O1       
+cd
+cd $HOME
+cd 3O1       
 fi
