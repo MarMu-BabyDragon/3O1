@@ -22,6 +22,10 @@
 
 🎅 cd 3O1
 
+🎅 chmod +x *.sh
+
+🎅 ls
+
 🎅 bash install.sh
 
 🎅 python2 3O1.py
