@@ -29,23 +29,9 @@ echo -e """\e[1m\e[35m
 """
 echo 
 echo -e $PP"DO YOU KNOW MARMU"
-read -p "Want to run the script? (y/n)" he
-if [ $he = y ]
-then
-sleep 1
+sleep 2 
 echo -e "\e[1;36m မင်္ဂလာပါခေါင်းရီးတို့ ... "
 sleep 2
-echo
-fi
-apt update
-
-if [ $he = n ]
-than
-sleep 1
-cd $HOME
-exit
-fi
-
 echo
 apt upgrade -y
 
@@ -105,20 +91,14 @@ _______11______________________________‌_‌____11_____
 echo 
 pkg update && pkg upgrade -y
 
-echo -e $BL "3-O-1 v - 1.1 Creation By MarMu"
-
-sleep 2
-fi
-
-cd $HOME
-        toilet -F gay -f small MarMu | lolcat
-        echo -e $GR "Ok Now u run => python2 3O1.py..."
-sleep 2
-echo
+echo -e $BL "3-O-1 v - 1.1" $YL "Creation By MarMu"
 
 rm -rf 3O1
 cd 3O1
 unzip 3O1.zip
 chmod +x *
 cd $HOME
-        
+        toilet -F gay -f small MarMu | lolcat
+        echo -e $GR "Ok Now u run => python2 3O1.py..."
+sleep 2
+exit
