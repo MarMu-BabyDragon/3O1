@@ -50,8 +50,6 @@ pkg install git -y
 apt install unzip -y
 gem install lolcat
 toilet -F gay 3-In-1 | lolcat
-fi
-
 
 echo
 echo -e """\e[1;36m
@@ -104,8 +102,9 @@ chmod +x *
 cd $HOME
         toilet -F gay -f small MarMu | lolcat
         echo -e $BL "Ok Now u run => python2 3O1.py..."
-sleep 2
-exit
+        sleep 2
+fi
+
 if [ $he = n ]
 than
 sleep 1
