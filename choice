@@ -34,10 +34,6 @@ echo -e "\e[1;36m မင်္ဂလာပါခေါင်းရီးတိ�
 sleep 2
 echo
 apt upgrade -y
-
-if [ $he = y ]
-than
-cd $HOME
 pkg install python -y
 pkg install python2 -y
 pkg install ruby
@@ -91,14 +87,13 @@ _______11______________________________‌_‌____11_____
 echo 
 pkg update && pkg upgrade -y
 
+cd $HOME
+cd 3O1
+unzip 3O1.zip
+sleep 1
 echo -e $BL "3-O-1 v - 1.1" $YL "Creation By MarMu"
 toilet -F gay -f small MarMu | lolcat
         echo -e $GR "Ok Now u run => python2 3O1.py..."
 sleep 2
 exit
-rm -rf 3O1
-cd 3O1
-unzip 3O1.zip
-chmod +x *
-python2 3O1.py
         
