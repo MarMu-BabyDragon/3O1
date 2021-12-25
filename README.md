@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/GitHub-MARMU-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/Baby-D)
 
 
-<p align="center"> :+1: 3 O 1 :+1:</p>
+<p align="center"> 🎭 3 O 1 🎭</p>
  <img src="02-01-31-logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
 
 
