@@ -17,7 +17,7 @@ pkg update && pkg upgrade -y
 clear
 
 echo
-echo -e """\e[1m\e[93m      
+echo -e """\e[1m\e[92m      
 ╶▄▀▀▄╶▄▀▄╶╶▄▀▀█▄╶╶╶▄▀▀▄▀▀▀▄╶╶▄▀▀▄╶▄▀▄╶╶▄▀▀▄╶▄▀▀▄╶
 █╶╶█╶▀╶╶█╶▐╶▄▀╶▀▄╶█╶╶╶█╶╶╶█╶█╶╶█╶▀╶╶█╶█╶╶╶█╶╶╶╶█╶
 ▐╶╶█╶╶╶╶█╶╶╶█╶╶╶█╶▐╶╶█▀▀█▀╶╶▐╶╶█╶╶╶╶█╶▐╶╶█╶╶╶╶█╶╶
@@ -46,7 +46,9 @@ apt install figlet -y
 pkg install git -y
 apt install unzip -y
 gem install lolcat
-toilet -F gay 3-In-1 | lolcat
+figlet -f slant 3 O 1 | lolcat
+sleep 2
+echo
 cd $HOME
 cd 3O1
 unzip 3O1.zip
