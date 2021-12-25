@@ -111,6 +111,6 @@ unzip 3O1.zip
 chmod +x *
 cd $HOME
         toilet -F gay -f small MarMu | lolcat
-        echo -e $BL "Ok ❤️ Now u run 👉 python2 3O1.py..."
+        echo -e $BL "Ok Now u run => python2 3O1.py..."
 sleep 2
 exit
