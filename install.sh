@@ -14,6 +14,7 @@ LB='\e[1;36m'
 WH='\e[1;37m'
 clear
 pkg update && pkg upgrade -y
+apt update && apt upgrade -y
 clear
 
 echo
@@ -93,11 +94,10 @@ ______________1¶¶111¶¶¶1_____________________
 """
 
 echo 
-pkg update && pkg upgrade -y
 toilet -F gay -f mono12 3 In 1 | lolcat
 echo -e $BL "3-O-1 v - 1.0" $YL "Creation By MarMu"
 toilet -F gay -f small MarMu | lolcat
-       echo -e $GR "Ok! Now you run" $YL"👉" $PP"python2 3O1.py "
+       echo -e $GR "Ok! Now you run" $YL"👉" $PP"python2 3in1.py "
 sleep 2
 exit
         
