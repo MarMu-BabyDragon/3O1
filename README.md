@@ -28,7 +28,7 @@
 
 🎅 bash install.sh
 
-🎅 python2 3O1.py
+🎅 python2 3in1.py
 
    **USERNAME & PASSWORD**
 
