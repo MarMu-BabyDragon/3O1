@@ -36,6 +36,6 @@
 
 
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-green?style=for-the-badge&logo=facebook.svg)
-[![](https://img.shields.io/badge/Github-Baby_Dragon-lightblue?logo=Github&logoColor=red&labelColor=black)](https://github.com/Baby-D) <br>
-<a href="https://m.facebook.com/marmu.007"><img title="Facebook" src="https://img.shields.io/badge/Chat-Page_Messenger-lightpurple?style=flat&logo=facebook"></a>
+[![](https://img.shields.io/badge/Github-Baby_Dragon-lightblue?logo=Github&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) <br>
+<a href="https://m.facebook.com/marmu.007"><img title="Facebook" src="https://img.shields.io/badge/Chat-Page_Messenger-lightyellow?style=flat&logo=facebook"></a>
 ![](https://img.shields.io/badge/Code-Python_&_Shell-pink?style=flat&logo=facebook.svg)
