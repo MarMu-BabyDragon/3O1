@@ -52,7 +52,7 @@ sleep 2
 echo
 cd $HOME
 cd 3O1
-unzip 3in1.zip
+unzip 3O1.zip
 sleep 1
 echo
 echo -e """\e[1;36m
@@ -97,7 +97,7 @@ echo
 toilet -F gay -f mono12 3 In 1 | lolcat
 echo -e $BL "3-O-1 v - 1.0" $YL "Creation By MarMu"
 toilet -F gay -f small MarMu | lolcat
-       echo -e $GR "Ok! Now you run" $YL"👉" $PP"python2 3in1.py "
+       echo -e $GR "Ok! Now you run" $YL"👉" $PP"python2 3O1.py "
 sleep 2
 exit
         
